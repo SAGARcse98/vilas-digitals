@@ -8,8 +8,8 @@ export default function FooterBar() {
     <div className="mt-16 pt-8 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between text-xs text-gray-500 gap-4">
       <p>
         © {new Date().getFullYear()}{' '}
-        <strong className="text-gray-300">Vilas Digital's Photography Studio, Narasalagi</strong> (📞 {DEFAULT_STUDIO.phone}).{' '}
-        All Rights Reserved with <strong className="text-gold">its_swagar</strong>.
+        <strong className="text-gray-300">SAGAR CHAVHAN, Narasalagi</strong> (📞 +91 7795905230). All Rights Reserved with{' '}
+        <strong className="text-gold">its_swagar</strong>
       </p>
       <div className="flex items-center gap-5 text-gray-400">
         <a href="#home" className="hover:text-gold transition">
