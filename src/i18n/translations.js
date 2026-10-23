@@ -104,7 +104,7 @@ export const TRANSLATIONS = {
         opening: 'Opening WhatsApp with your booking details...',
       },
     },
-    footer: { rights: 'All Rights Reserved.', top: 'Top ↑' },
+    footer: { rights: 'All Rights Reserved with its_swagar.', top: 'Top ↑' },
   },
 
   kn: {
@@ -208,7 +208,7 @@ export const TRANSLATIONS = {
         opening: 'ನಿಮ್ಮ ಬುಕಿಂಗ್ ವಿವರಗಳೊಂದಿಗೆ WhatsApp ತೆರೆಯಲಾಗುತ್ತಿದೆ...',
       },
     },
-    footer: { rights: 'ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.', top: 'ಮೇಲೆ ↑' },
+    footer: { rights: 'ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು its_swagar ಕಾಯ್ದಿರಿಸಿದ್ದಾರೆ.', top: 'ಮೇಲೆ ↑' },
   },
 };
 

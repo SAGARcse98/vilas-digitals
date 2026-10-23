@@ -9,7 +9,7 @@ export default function FooterBar() {
       <p>
         © {new Date().getFullYear()}{' '}
         <strong className="text-gray-300">Vilas Digital's Photography Studio, Narasalagi</strong> (📞 {DEFAULT_STUDIO.phone}).{' '}
-        {t('footer.rights')}
+        All Rights Reserved with <strong className="text-gold">its_swagar</strong>.
       </p>
       <div className="flex items-center gap-5 text-gray-400">
         <a href="#home" className="hover:text-gold transition">
